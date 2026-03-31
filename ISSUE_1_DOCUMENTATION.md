@@ -29,10 +29,10 @@ Upload complete patent documentation for Body Food System System (BFS) - Copyrig
 
 | # | File / Файл | Location / Расположение | Status / Статус |
 |---|------------|----------------------|----------------|
-| 1 | BFS_Copyright.pdf | docs/applications/ | ✅ Complete |
-| 2 | BFS.pdf | docs/descriptions/ | ✅ Complete |
-| 3 | Vision Document.pdf | docs/descriptions/ | ✅ Complete |
-| 4 | SRS BFS.pdf | docs/specifications/ | ✅ Complete |
+| 1 | BFS_Copyright.pdf | docs/applications/ | ✅ Complete / Загружено |
+| 2 | BFS.pdf | docs/descriptions/ | ✅ Complete / Загружено |
+| 3 | Vision Document.pdf | docs/descriptions/ | ✅ Complete / Загружено |
+| 4 | SRS BFS.pdf | docs/specifications/ | ✅ Complete / Загружено |
 
 ---
 
@@ -50,10 +50,10 @@ Upload complete patent documentation for Body Food System System (BFS) - Copyrig
 
 | ID | Criterion / Критерий | Status / Статус |
 |----|---------------------|----------------|
-| **AC-001** | All PDF documents uploaded / Все PDF документы загружены | ✅ Complete |
-| **AC-002** | Bilingual documentation (EN/RU) / Двуязычная документация | ✅ Complete |
-| **AC-003** | Media coverage added / Публикации в СМИ добавлены | ✅ Complete |
-| **AC-004** | Timeline created / Временная шкала создана | ✅ Complete |
+| **AC-001** | All PDF documents uploaded / Все PDF документы загружены | ✅ Complete / Завершено |
+| **AC-002** | Bilingual documentation (EN/RU) / Двуязычная документация | ✅ Complete / Завершено |
+| **AC-003** | Media coverage added / Публикации в СМИ добавлены | ✅ Complete / Завершено |
+| **AC-004** | Timeline created / Временная шкала создана | ✅ Complete / Завершено |
 
 ---
 
