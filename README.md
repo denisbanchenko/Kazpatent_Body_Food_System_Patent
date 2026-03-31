@@ -1,7 +1,4 @@
-# 🍽️ Body BFS / Тело БФС
-
-> **English:** Body Food System System (BFS)
-> **Русский:** Система Питания Человеческого Тела (БФС)
+# 🍽️ Body Food System System / Система Питания Человеческого Тела
 
 **Abbreviation / Сокращение:**
 - **EN:** BFS (Body Food System System)
@@ -25,13 +22,13 @@
 
 ## 🎯 Invention Details / Детали изобретения
 
-### Names / Названия
+### Full Names / Полные Названия
 
-| Language / Язык | Name / Название |
-|-----------------|-----------------|
-| **English / Английский** | Body Food System System |
-| **Russian / Русский** | Система Питания Человеческого Тела |
-| **Scientific / Научный** | Биологическая Функциональная Система (БФС) |
+| Language / Язык | Full Name / Полное Название | Abbreviation / Сокращение |
+|-----------------|---------------------------|--------------------------|
+| **English / Английский** | Body Food System System | BFS |
+| **Russian / Русский** | Система Питания Человеческого Тела | БФС |
+| **Scientific / Научный (RU)** | Биологическая Функциональная Система | БФС |
 
 ### Description / Описание
 
@@ -103,8 +100,8 @@
 
 ## 🏷️ Keywords / Ключевые Слова
 
-**EN:** Patent, Body Food System, Genetic Code, Personalized Nutrition, Health Technology, Kazpatent, TXu002116250
-**RU:** Патент, Система Питания, Генетический Код, Персонализированное Питание, Технология Здоровья, Kazpatent, TXu002116250
+**EN:** Patent, Body Food System, Genetic Code, Personalized Nutrition, Health Technology, Kazpatent, BFS, TXu002116250
+**RU:** Патент, Система Питания, Генетический Код, Персонализированное Питание, Технология Здоровья, Kazpatent, БФС, TXu002116250
 
 ---
 
