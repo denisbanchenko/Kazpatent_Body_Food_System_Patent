@@ -1,4 +1,4 @@
-# 🍽️ Body Food System System / Система Питания Человеческого Тела
+# 🍽️ Body Food System / Система Питания Человеческого Тела
 
 **Abbreviation / Сокращение:**
 - **EN:** BFS (Body Food System System)
