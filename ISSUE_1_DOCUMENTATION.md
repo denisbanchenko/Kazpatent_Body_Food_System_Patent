@@ -29,10 +29,10 @@ Upload complete patent documentation for Body Food System System (BFS) - Copyrig
 
 | # | File / Файл | Location / Расположение | Status / Статус |
 |---|------------|----------------------|----------------|
-| 1 | BFS_Copyright.pdf | docs/applications/ | ✅ Uploaded |
-| 2 | BFS.pdf | docs/descriptions/ | ✅ Uploaded |
-| 3 | Vision Document.pdf | docs/descriptions/ | ✅ Uploaded |
-| 4 | SRS BFS.pdf | docs/specifications/ | ✅ Uploaded |
+| 1 | BFS_Copyright.pdf | docs/applications/ | ✅ Complete |
+| 2 | BFS.pdf | docs/descriptions/ | ✅ Complete |
+| 3 | Vision Document.pdf | docs/descriptions/ | ✅ Complete |
+| 4 | SRS BFS.pdf | docs/specifications/ | ✅ Complete |
 
 ---
 
